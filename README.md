@@ -37,7 +37,7 @@ para comprender cómo **proteger infraestructuras tecnológicas**.
 
 ---
 
-# Tecnologías y herramientas
+## </> Tecnologías y herramientas
 
 ![Nmap](https://img.shields.io/badge/Nmap-black?logo=nmap)
 ![Wireshark](https://img.shields.io/badge/Wireshark-blue?logo=wireshark)
@@ -48,6 +48,10 @@ para comprender cómo **proteger infraestructuras tecnológicas**.
 ![PacketTracer](https://img.shields.io/badge/Cisco_Packet_Tracer-blue)
 ![GNS3](https://img.shields.io/badge/GNS3-2C3E50)
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python)
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,linux" />
+</p>
 
 ---
 
@@ -113,9 +117,3 @@ Email: (tu email profesional)
 - Network Security Labs
 - Packet Tracer Network Designs
 - Python Security Scripts
-
-## </> Skills
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,linux" />
-</p>
