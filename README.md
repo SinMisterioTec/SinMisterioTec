@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-  <b>🔐 Ciberseguridad</b> | <b>🌐 Redes</b> | <b>⚔️ Hacking Ético</b> | <b>🔎 Análisis Forense Digital</b>
+
+🔐 **Ciberseguridad** | 🌐 **Redes** | ⚔️ **Hacking Ético** | 🔎 **Análisis Forense Digital**
+
 </p>
 
 <p align="center">
