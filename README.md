@@ -35,10 +35,11 @@ Estudiante de ciberseguridad con enfoque en seguridad ofensiva y defensiva, rede
 
 ## Certifications
 
-- Cisco Ethical Hacker
-- Cisco Introduction to Cybersecurity
-- CCNA 1
-- CCNA 2
+- **[Certified Digital Forensics Professional (eCDFP)](https://certs.ine.com/f920fd6e-9329-4816-b12f-0512d315d86e#acc.HpWiZ4US)**  
+  INE Security
+
+- **[Junior Penetration Tester (eJPT)](https://certs.ine.com/aa631ac2-46b5-42ba-8b72-865b977591c5#acc.MkXZ1A7E)**  
+  INE Security
 
 ---
 
