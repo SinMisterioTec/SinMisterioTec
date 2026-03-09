@@ -1,8 +1,4 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:001f3f&height=200&section=header&text=Gabriel%20Jiménez%20Marchena&fontSize=40&fontColor=00F7FF&animation=fadeIn&desc=Cyber%20Security%20Professional&descAlignY=70&descSize=20"/>
-</p>
-
-<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Gabriel+Jim%C3%A9nez+Marchena;Cyber+Security+Professional" />
 </p>
 
