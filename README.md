@@ -1,8 +1,18 @@
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Gabriel+Jim%C3%A9nez+Marchena;Cyber+Security+Professional" />
+<h1 align="center">Cyber Security Professional</h1>
 
-Ciberseguridad | Redes | Hacking Ético | Análisis Forense Digital
+<p align="center">
+Ciberseguridad • Redes • Hacking Ético • Análisis Forense Digital
+</p>
 
-Estudiante de ciberseguridad con enfoque en seguridad ofensiva y defensiva, forense digital, redes y seguridad en la nube.
+<p align="center">
+Especialista en formación en seguridad ofensiva y defensiva, con enfoque en 
+pentesting, análisis forense digital, seguridad de redes y seguridad en la nube.
+</p>
+
+<p align="center">
+Interesado en investigación de vulnerabilidades, seguridad de infraestructuras, 
+análisis de incidentes y desarrollo de laboratorios de seguridad.
+</p>
 
 ---
 
