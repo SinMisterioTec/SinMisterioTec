@@ -19,7 +19,7 @@ Estudiante de ciberseguridad con enfoque en seguridad ofensiva y defensiva, fore
 
 ---
 
-# Technologies & Tools
+# Tecnologías y herramientas
 
 ![Nmap](https://img.shields.io/badge/Nmap-black?logo=nmap)
 ![Wireshark](https://img.shields.io/badge/Wireshark-blue?logo=wireshark)
