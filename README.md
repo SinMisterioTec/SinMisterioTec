@@ -1,31 +1,4 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=2800&pause=1200&color=00F7FF&background=02061700&center=true&vCenter=true&width=1100&height=80&lines=Gabriel+Jim%C3%A9nez+Marchena;Cyber+Security+Professional" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:031525,100:020617&height=140&section=header&text=0100101100101010010110010101100101011001010110010101100101011001&fontSize=18&fontColor=00FF99&animation=fadeIn&desc=1010010110010101100101011001010110010101100101011001010110010101100&descSize=18&descAlignY=72&descAlign=50" width="100%" />
-</p>
-
-<p align="center">
-  <b>🔐 Ciberseguridad</b> | <b>🌐 Redes</b> | <b>🛠 Hacking Ético</b> | <b>🔎 Análisis Forense Digital</b>
-</p>
-
-<p align="center">
-  Estudiante de ciberseguridad enfocado en <b>seguridad ofensiva y defensiva</b>, con interés en
-  <b>forense digital, seguridad de redes y seguridad en la nube</b>.
-</p>
-
-<p align="center">
-  Desarrollo <b>laboratorios prácticos de seguridad</b>, análisis de ataques y técnicas de defensa
-  para comprender cómo proteger infraestructuras tecnológicas.
-</p>
-
----
-
-
-
-
-<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Gabriel+Jim%C3%A9nez+Marchena;Cyber+Security+Professional" />
 </p>
 
