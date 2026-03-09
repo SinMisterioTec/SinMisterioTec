@@ -16,7 +16,6 @@ Estudiante de ciberseguridad con enfoque en seguridad ofensiva y defensiva, fore
 - Inteligencia artificial
 - Computación en la nube
 - Ingeniería en seguridad informática
-- Tecnologías complementarias
 
 ---
 
