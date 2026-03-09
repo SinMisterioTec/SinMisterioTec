@@ -8,12 +8,15 @@ Cybersecurity student focused on offensive and defensive security, networking, a
 
 ## Areas of Focus
 
-- Network Security
-- Ethical Hacking
-- Digital Forensics
-- Cloud Security
-- Linux Security
-- Incident Response
+- Redes
+- Sistemas operativos
+- Programación
+- Soporte técnico
+- Ciberseguridad
+- Inteligencia artificial
+- Computación en la nube
+- Ingeniería en seguridad informática
+- Tecnologías complementarias
 
 ---
 
