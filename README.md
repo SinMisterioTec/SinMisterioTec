@@ -70,7 +70,6 @@ Email: (tu email profesional)
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-CR129&show_icons=true&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-CR129&show_icons=true&theme=dark)
 
 ## Featured Projects
 
@@ -79,4 +78,4 @@ Email: (tu email profesional)
 - Packet Tracer Network Designs
 - Python Security Scripts
 
-![Cybersecurity](https://images.unsplash.com/photo...)
+![Cybersecurity](https://images.unsplash.com/photo-1550751827-4bd374c3f58b)
