@@ -2,7 +2,7 @@
 
 Ciberseguridad | Redes | Hacking Ético | Análisis Forense Digital
 
-Estudiante de ciberseguridad con enfoque en seguridad ofensiva y defensiva, redes y seguridad en la nube.
+Estudiante de ciberseguridad con enfoque en seguridad ofensiva y defensiva, forense digital, redes y seguridad en la nube.
 
 ---
 
