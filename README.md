@@ -69,8 +69,8 @@ Email: (tu email profesional)
 ![Kali](https://img.shields.io/badge/Kali_Linux-purple?logo=kalilinux)
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriel-jimenez&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-CR129&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-CR129&show_icons=true&theme=dark)
 
 ## Featured Projects
 
