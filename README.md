@@ -113,3 +113,11 @@ Email: (tu email profesional)
 - Network Security Labs
 - Packet Tracer Network Designs
 - Python Security Scripts
+
+## Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,linux,docker,aws" />
+
+</p>
