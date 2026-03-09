@@ -1,5 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Gabriel+Jim%C3%A9nez+Marchena;Cyber+Security+Professional" />
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=120&section=header"/>
+
 Ciberseguridad | Redes | Hacking Ético | Análisis Forense Digital
 
 Estudiante de ciberseguridad con enfoque en seguridad ofensiva y defensiva, forense digital, redes y seguridad en la nube.
