@@ -33,7 +33,7 @@ para comprender cómo **proteger infraestructuras tecnológicas**.
 
 ---
 
-# </> Habilidades
+# Habilidades
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,linux" />
