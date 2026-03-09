@@ -6,7 +6,7 @@ Estudiante de ciberseguridad con enfoque en seguridad ofensiva y defensiva, rede
 
 ---
 
-## Areas of Focus
+## Áreas de enfoque
 
 - Redes
 - Sistemas operativos
@@ -20,7 +20,7 @@ Estudiante de ciberseguridad con enfoque en seguridad ofensiva y defensiva, rede
 
 ---
 
-## Technologies and Tools
+## Tecnologías y herramientas
 
 - Nmap
 - Wireshark
@@ -33,7 +33,7 @@ Estudiante de ciberseguridad con enfoque en seguridad ofensiva y defensiva, rede
 
 ---
 
-## Certifications
+## Certificaciones
 
 - **[Certified Digital Forensics Professional (eCDFP)](https://certs.ine.com/f920fd6e-9329-4816-b12f-0512d315d86e#acc.HpWiZ4US)**  
   INE Security
@@ -43,7 +43,7 @@ Estudiante de ciberseguridad con enfoque en seguridad ofensiva y defensiva, rede
 
 ---
 
-## Cybersecurity Labs
+## Laboratorios de ciberseguridad
 
 - ARP Spoofing & MITM Attack
 - Network Scanning with Nmap
@@ -53,7 +53,7 @@ Estudiante de ciberseguridad con enfoque en seguridad ofensiva y defensiva, rede
 
 ---
 
-## Current Learning
+## Aprendizaje actual
 
 - CCNA 3
 - eJPT Preparation
@@ -61,7 +61,7 @@ Estudiante de ciberseguridad con enfoque en seguridad ofensiva y defensiva, rede
 
 ---
 
-## Contact
+## Contacto
 
 LinkedIn: (tu perfil)  
 Email: (tu email profesional)
