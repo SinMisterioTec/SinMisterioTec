@@ -4,10 +4,6 @@
 
 <p align="center">
 
-</p>
-
-<p align="center">
-
 Estudiante de ciberseguridad enfocado en **seguridad ofensiva y defensiva**, con interés en  
 **forense digital, seguridad de redes y seguridad en la nube**.
 
