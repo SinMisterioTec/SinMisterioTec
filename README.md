@@ -19,6 +19,7 @@ Estudiante de ciberseguridad enfocado en **seguridad ofensiva y defensiva**, con
 
 Desarrollo **laboratorios prácticos de seguridad**, análisis de ataques y técnicas de defensa  
 para comprender cómo **proteger infraestructuras tecnológicas**.
+
 ---
 
 # Áreas de enfoque
