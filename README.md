@@ -4,8 +4,6 @@
 
 <p align="center">
 
-🔐 **Ciberseguridad** &nbsp;|&nbsp; 🌐 **Redes** &nbsp;|&nbsp; ⚔️ **Hacking Ético** &nbsp;|&nbsp; 🔎 **Análisis Forense Digital**
-
 </p>
 
 <p align="center">
