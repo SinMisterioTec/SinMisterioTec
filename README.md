@@ -78,4 +78,4 @@ Email: (tu email profesional)
 - Packet Tracer Network Designs
 - Python Security Scripts
 
-![Cybersecurity](https://images.unsplash.com/photo-1550751827-4bd374c3f58b)
+![Cybersecurity](https://unsplash.com/es/fotos/hombre-sentado-frente-a-la-computadora-portatil-dYEuFB8KQJk)
