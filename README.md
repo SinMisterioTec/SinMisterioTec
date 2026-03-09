@@ -1,8 +1,8 @@
 # Gabriel Jiménez Marchena
 
-Cybersecurity | Networking | Ethical Hacking | Digital Forensics
+Ciberseguridad | Redes | Hacking Ético | Análisis Forense Digital
 
-Cybersecurity student focused on offensive and defensive security, networking, and cloud security.
+Estudiante de ciberseguridad con enfoque en seguridad ofensiva y defensiva, redes y seguridad en la nube.
 
 ---
 
