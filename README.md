@@ -130,32 +130,42 @@ para comprender cómo **proteger infraestructuras tecnológicas**.
 
 ---
 
-# Laboratorios de ciberseguridad
+# Laboratorios y proyectos de ciberseguridad
 
-- ARP Spoofing & MITM Attack
-- Network Scanning with Nmap
-- HTTP Credential Capture with Wireshark
-- VLAN Security Lab
-- Static Routing Attack Simulation
+Laboratorios prácticos enfocados en **seguridad ofensiva, análisis de tráfico, redes y simulación de ataques**, con el objetivo de comprender cómo funcionan las amenazas reales y cómo proteger infraestructuras tecnológicas.
+
+| Laboratorio | Descripción |
+|-------------|-------------|
+| ARP Spoofing & MITM Attack | Simulación de ataque Man-in-the-Middle mediante envenenamiento ARP |
+| Network Scanning with Nmap | Descubrimiento de hosts y análisis de servicios en red |
+| HTTP Credential Capture with Wireshark | Análisis de tráfico para identificar credenciales en protocolos inseguros |
+| VLAN Security Lab | Segmentación de red y pruebas de seguridad en entornos VLAN |
+| Static Routing Attack Simulation | Simulación de ataques y manipulación en redes con enrutamiento estático |
 
 ---
 
 # Aprendizaje actual
 
-- Hacking Forensic Investigator (CHFI)
+Actualmente profundizando en **investigación forense digital y análisis de incidentes de seguridad**.
+
+**CHFI — Hacking Forensic Investigator**
 
 ---
 
 # Contacto
 
 LinkedIn: *(tu perfil)*  
-Email: *(tu email profesional)*
+Email: *(tu correo profesional)*
 
 ---
 
 # Proyectos destacados
 
-- ARP Spoofing Lab
-- Network Security Labs
-- Packet Tracer Network Designs
-- Python Security Scripts
+| Proyecto | Descripción |
+|----------|-------------|
+| ARP Spoofing Lab | Demostración práctica de ataque MITM en una red local |
+| Network Security Labs | Colección de laboratorios sobre análisis y seguridad de redes |
+| Packet Tracer Network Designs | Diseño y simulación de topologías de red |
+| Python Security Scripts | Scripts en Python para automatización y análisis de seguridad |
+
+---
