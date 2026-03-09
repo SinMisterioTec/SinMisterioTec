@@ -38,7 +38,7 @@ para comprender cómo **proteger infraestructuras tecnológicas**.
 # Habilidades
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,linux,windows" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,linux,windows,kali" />
 </p>
 
 ---
