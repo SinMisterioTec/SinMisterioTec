@@ -1,4 +1,8 @@
 <p align="center">
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%">
+</p>
+
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Gabriel+Jim%C3%A9nez+Marchena;Cyber+Security+Professional" />
 </p>
 
