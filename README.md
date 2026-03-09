@@ -56,9 +56,7 @@ Estudiante de ciberseguridad con enfoque en seguridad ofensiva y defensiva, rede
 
 ## Aprendizaje actual
 
-- CCNA 3
-- eJPT Preparation
-- Cloud Security (Microsoft Path)
+- Hacking Forensic Investigator (CHFI)
 
 ---
 
