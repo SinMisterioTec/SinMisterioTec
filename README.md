@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:001f3f&height=200&section=header&text=Gabriel%20Jiménez%20Marchena&fontSize=40&fontColor=00F7FF&animation=fadeIn&desc=Cyber%20Security%20Professional&descAlignY=70&descSize=20"/>
 </p>
 
 <p align="center">
