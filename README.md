@@ -60,33 +60,73 @@ para comprender cómo **proteger infraestructuras tecnológicas**.
 
 ## Systems & Infrastructure
 
-- **[IT Essentials](https://www.credly.com/badges/285cbf68-4fc8-48e9-ae03-49c4b7b7d3a0/public_url)**
-- **[Linux Essentials](https://www.credly.com/badges/6d3d61a9-37b7-4116-aa2c-08c3875e0b4b/public_url)**
+<p>
+<a href="https://www.credly.com/badges/285cbf68-4fc8-48e9-ae03-49c4b7b7d3a0/public_url">
+<img src="https://img.shields.io/badge/IT%20Essentials-Cisco-blue?style=for-the-badge&logo=cisco">
+</a>
+
+<a href="https://www.credly.com/badges/6d3d61a9-37b7-4116-aa2c-08c3875e0b4b/public_url">
+<img src="https://img.shields.io/badge/Linux%20Essentials-NDG-black?style=for-the-badge&logo=linux">
+</a>
+</p>
 
 ---
 
 ## Cisco Networking Academy
 
-- **[Networking Basics](https://www.credly.com/badges/f8edf1e5-9a71-42b2-b553-845350a2f653/public_url)**
-- **[CCNA 1 — Introduction to Networks](https://www.credly.com/badges/e67840cc-8464-440e-8edf-8850c71ec8db/public_url)**
-- **[CCNA 2 — Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/e3a703e4-ba9d-447c-a275-4d6679a31c82/public_url)**
-- **[CCNA 3 — Enterprise Networking, Security, and Automation](https://www.credly.com/badges/f6234b97-d5ee-4721-93e8-66234b22779b/public_url)**
-- **[Network Technician Career Path](https://www.credly.com/badges/ccdfa507-c61b-430e-b719-509b135c3307/public_url)**
+<p>
+<a href="https://www.credly.com/badges/f8edf1e5-9a71-42b2-b553-845350a2f653/public_url">
+<img src="https://img.shields.io/badge/Networking%20Basics-Cisco-blue?style=for-the-badge&logo=cisco">
+</a>
+
+<a href="https://www.credly.com/badges/e67840cc-8464-440e-8edf-8850c71ec8db/public_url">
+<img src="https://img.shields.io/badge/CCNA%201-Introduction%20to%20Networks-blue?style=for-the-badge&logo=cisco">
+</a>
+
+<a href="https://www.credly.com/badges/e3a703e4-ba9d-447c-a275-4d6679a31c82/public_url">
+<img src="https://img.shields.io/badge/CCNA%202-Switching%20Routing%20Wireless-blue?style=for-the-badge&logo=cisco">
+</a>
+
+<a href="https://www.credly.com/badges/f6234b97-d5ee-4721-93e8-66234b22779b/public_url">
+<img src="https://img.shields.io/badge/CCNA%203-Enterprise%20Networking-blue?style=for-the-badge&logo=cisco">
+</a>
+
+<a href="https://www.credly.com/badges/ccdfa507-c61b-430e-b719-509b135c3307/public_url">
+<img src="https://img.shields.io/badge/Network%20Technician-Career%20Path-blue?style=for-the-badge&logo=cisco">
+</a>
+</p>
 
 ---
 
 ## Cisco Cybersecurity
 
-- **[Introduction to Cybersecurity](https://www.credly.com/badges/b0f1191a-8ba1-4fd0-9647-dce2d0b48077/public_url)**
-- **[Ethical Hacker](https://www.credly.com/badges/b6b886d4-3a23-4930-8195-b56198217c58/public_url)**
-- **[Junior Cybersecurity Analyst Career Path](https://www.credly.com/badges/25f72c50-ebca-4f20-8f8e-40a9c60b044e/public_url)**
+<p>
+<a href="https://www.credly.com/badges/b0f1191a-8ba1-4fd0-9647-dce2d0b48077/public_url">
+<img src="https://img.shields.io/badge/Introduction%20to%20Cybersecurity-Cisco-darkblue?style=for-the-badge&logo=cisco">
+</a>
+
+<a href="https://www.credly.com/badges/b6b886d4-3a23-4930-8195-b56198217c58/public_url">
+<img src="https://img.shields.io/badge/Ethical%20Hacker-Cisco-red?style=for-the-badge&logo=cisco">
+</a>
+
+<a href="https://www.credly.com/badges/25f72c50-ebca-4f20-8f8e-40a9c60b044e/public_url">
+<img src="https://img.shields.io/badge/Junior%20Cybersecurity%20Analyst-Cisco-purple?style=for-the-badge&logo=cisco">
+</a>
+</p>
 
 ---
 
 ## INE Security
 
-- **[eJPT — Junior Penetration Tester](https://certs.ine.com/aa631ac2-46b5-42ba-8b72-865b977591c5#acc.MkXZ1A7E)**
-- **[eCDFP — Certified Digital Forensics Professional](https://certs.ine.com/f920fd6e-9329-4816-b12f-0512d315d86e#acc.HpWiZ4US)**
+<p>
+<a href="https://certs.ine.com/aa631ac2-46b5-42ba-8b72-865b977591c5#acc.MkXZ1A7E">
+<img src="https://img.shields.io/badge/eJPT-Junior%20Penetration%20Tester-red?style=for-the-badge">
+</a>
+
+<a href="https://certs.ine.com/f920fd6e-9329-4816-b12f-0512d315d86e#acc.HpWiZ4US">
+<img src="https://img.shields.io/badge/eCDFP-Digital%20Forensics-blue?style=for-the-badge">
+</a>
+</p>
 
 ---
 
