@@ -95,3 +95,10 @@ Email: (tu email profesional)
 - Network Security Labs
 - Packet Tracer Network Designs
 - Python Security Scripts
+
+
+## github stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=Gabriel-CR129&show_icons=true&theme=tokyonight)
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-CR129&layout=compact&theme=tokyonight)
