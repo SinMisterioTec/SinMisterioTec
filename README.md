@@ -6,41 +6,43 @@ Estudiante de ciberseguridad con enfoque en seguridad ofensiva y defensiva, fore
 
 ---
 
-## Áreas de enfoque
+# Areas of Focus
 
-- Redes
-- Sistemas operativos
-- Programación
-- Soporte técnico
-- Ciberseguridad
-- Inteligencia artificial
-- Computación en la nube
-- Ingeniería en seguridad informática
-
----
-
-## Tecnologías y herramientas
-
-- Nmap
-- Wireshark
-- Metasploit
-- Burp Suite
-- Kali Linux
-- Suricata
-- Cisco Packet Tracer
-- Python
-- GNS3
+- Networking
+- Operating Systems
+- Programming
+- Technical Support
+- Cybersecurity
+- Artificial Intelligence
+- Cloud Computing
+- Computer Security Engineering
 
 ---
 
-## Certificaciones
+# Technologies & Tools
 
-### Systems and Infrastructure
+![Nmap](https://img.shields.io/badge/Nmap-black?logo=nmap)
+![Wireshark](https://img.shields.io/badge/Wireshark-blue?logo=wireshark)
+![Metasploit](https://img.shields.io/badge/Metasploit-darkblue)
+![BurpSuite](https://img.shields.io/badge/Burp_Suite-orange)
+![Kali](https://img.shields.io/badge/Kali_Linux-purple?logo=kalilinux)
+![Suricata](https://img.shields.io/badge/Suricata-red)
+![PacketTracer](https://img.shields.io/badge/Cisco_Packet_Tracer-blue)
+![GNS3](https://img.shields.io/badge/GNS3-2C3E50)
+![Python](https://img.shields.io/badge/Python-yellow?logo=python)
+
+---
+
+# Certifications
+
+## Systems & Infrastructure
 
 - **[IT Essentials](https://www.credly.com/badges/285cbf68-4fc8-48e9-ae03-49c4b7b7d3a0/public_url)**
 - **[Linux Essentials](https://www.credly.com/badges/6d3d61a9-37b7-4116-aa2c-08c3875e0b4b/public_url)**
 
-### Cisco Networking Academy
+---
+
+## Cisco Networking Academy
 
 - **[Networking Basics](https://www.credly.com/badges/f8edf1e5-9a71-42b2-b553-845350a2f653/public_url)**
 - **[CCNA 1 — Introduction to Networks](https://www.credly.com/badges/e67840cc-8464-440e-8edf-8850c71ec8db/public_url)**
@@ -48,20 +50,24 @@ Estudiante de ciberseguridad con enfoque en seguridad ofensiva y defensiva, fore
 - **[CCNA 3 — Enterprise Networking, Security, and Automation](https://www.credly.com/badges/f6234b97-d5ee-4721-93e8-66234b22779b/public_url)**
 - **[Network Technician Career Path](https://www.credly.com/badges/ccdfa507-c61b-430e-b719-509b135c3307/public_url)**
 
-### Cisco Cybersecurity
+---
+
+## Cisco Cybersecurity
 
 - **[Introduction to Cybersecurity](https://www.credly.com/badges/b0f1191a-8ba1-4fd0-9647-dce2d0b48077/public_url)**
 - **[Ethical Hacker](https://www.credly.com/badges/b6b886d4-3a23-4930-8195-b56198217c58/public_url)**
 - **[Junior Cybersecurity Analyst Career Path](https://www.credly.com/badges/25f72c50-ebca-4f20-8f8e-40a9c60b044e/public_url)**
 
-### INE Security
+---
+
+## INE Security
 
 - **[eJPT — Junior Penetration Tester](https://certs.ine.com/aa631ac2-46b5-42ba-8b72-865b977591c5#acc.MkXZ1A7E)**
 - **[eCDFP — Certified Digital Forensics Professional](https://certs.ine.com/f920fd6e-9329-4816-b12f-0512d315d86e#acc.HpWiZ4US)**
 
 ---
 
-## Laboratorios de ciberseguridad
+# Cybersecurity Labs
 
 - ARP Spoofing & MITM Attack
 - Network Scanning with Nmap
@@ -71,34 +77,25 @@ Estudiante de ciberseguridad con enfoque en seguridad ofensiva y defensiva, fore
 
 ---
 
-## Aprendizaje actual
+# Current Learning
 
 - Hacking Forensic Investigator (CHFI)
 
 ---
 
-## Contacto
+# GitHub Stats
 
-LinkedIn: (tu perfil)  
-Email: (tu email profesional)
+![Gabriel GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-CR129&show_icons=true&theme=tokyonight)
 
-## Tools
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-CR129&layout=compact&theme=tokyonight)
 
-![Nmap](https://img.shields.io/badge/Nmap-black?logo=nmap)
-![Wireshark](https://img.shields.io/badge/Wireshark-blue?logo=wireshark)
-![Kali](https://img.shields.io/badge/Kali_Linux-purple?logo=kalilinux)
-![Python](https://img.shields.io/badge/Python-yellow?logo=python)
+---
 
-## Featured Projects
+# Contact
 
-- ARP Spoofing Lab
-- Network Security Labs
-- Packet Tracer Network Designs
-- Python Security Scripts
+LinkedIn: *(tu perfil)*  
+Email: *(tu email profesional)*
 
+---
 
-## github stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=Gabriel-CR129&show_icons=true&theme=tokyonight)
-
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-CR129&layout=compact&theme=tokyonight)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00F7FF&height=120&section=footer"/>
