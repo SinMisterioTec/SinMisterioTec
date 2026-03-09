@@ -114,10 +114,8 @@ Email: (tu email profesional)
 - Packet Tracer Network Designs
 - Python Security Scripts
 
-## Technologies
+<h2 align="center"> </> Skills </h2>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,linux,docker,aws" />
-
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,linux" />
 </p>
