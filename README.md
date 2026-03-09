@@ -111,7 +111,7 @@ Email: *(tu email profesional)*
 
 ---
 
-# Featured Projects
+# Proyectos destacados
 
 - ARP Spoofing Lab
 - Network Security Labs
