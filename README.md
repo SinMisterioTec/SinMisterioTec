@@ -45,11 +45,11 @@ para comprender cómo **proteger infraestructuras tecnológicas**.
 
 # Tecnologías y herramientas
 
-![Nmap](https://img.shields.io/badge/Nmap-black?logo=nmap)
 ![Wireshark](https://img.shields.io/badge/Wireshark-blue?logo=wireshark)
 ![Metasploit](https://img.shields.io/badge/Metasploit-darkblue)
 ![BurpSuite](https://img.shields.io/badge/Burp_Suite-orange)
 ![Kali](https://img.shields.io/badge/Kali_Linux-purple?logo=kalilinux)
+![Nmap](https://img.shields.io/badge/Nmap-black?logo=nmap)
 ![Suricata](https://img.shields.io/badge/Suricata-red)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-blue)
 ![GNS3](https://img.shields.io/badge/GNS3-2C3E50)
