@@ -30,6 +30,7 @@ Estudiante de ciberseguridad con enfoque en seguridad ofensiva y defensiva, rede
 - Suricata
 - Cisco Packet Tracer
 - Python
+- GNS3
 
 ---
 
@@ -73,13 +74,9 @@ Email: (tu email profesional)
 ![Kali](https://img.shields.io/badge/Kali_Linux-purple?logo=kalilinux)
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-CR129&show_icons=true&theme=dark)
-
 ## Featured Projects
 
 - ARP Spoofing Lab
 - Network Security Labs
 - Packet Tracer Network Designs
 - Python Security Scripts
-
-![Cybersecurity](https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80)
