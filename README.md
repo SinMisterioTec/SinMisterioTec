@@ -1,8 +1,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Gabriel+Jim%C3%A9nez+Marchena;Cyber+Security+Professional" />
 
-<p style="text-align:center; margin-left:-30px;">
-🔐 <b>Ciberseguridad</b> &nbsp;|&nbsp; 🌐 <b>Redes</b> &nbsp;|&nbsp; 🛠 <b>Hacking Ético</b> &nbsp;|&nbsp; 🔎 <b>Análisis Forense Digital</b>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Gabriel+Jim%C3%A9nez+Marchena;Cyber+Security+Professional" />
 </p>
+
+<p align="center">
+
+🔐 **Ciberseguridad** &nbsp;|&nbsp; 🌐 **Redes** &nbsp;|&nbsp; 🛠 **Hacking Ético** &nbsp;|&nbsp; 🔎 **Análisis Forense Digital**
 
 </p>
 
