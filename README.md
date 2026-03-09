@@ -4,21 +4,19 @@
 
 <p align="center">
 
-🔐 **Ciberseguridad** &nbsp;|&nbsp; 🌐 **Redes** &nbsp;|&nbsp; 🛠 **Hacking Ético** &nbsp;|&nbsp; 🔎 **Análisis Forense Digital**
+🔐 **Ciberseguridad** | 🌐 **Redes** | 🛠 **Hacking Ético** | 🔎 **Análisis Forense Digital**
 
 </p>
 
 <p align="center">
-
 Estudiante de ciberseguridad enfocado en **seguridad ofensiva y defensiva**, con interés en  
 **forense digital, seguridad de redes y seguridad en la nube**.
-
 </p>
 
 <p align="center">
-
 Desarrollo **laboratorios prácticos de seguridad**, análisis de ataques y técnicas de defensa  
 para comprender cómo **proteger infraestructuras tecnológicas**.
+</p>
 
 ---
 
