@@ -136,10 +136,10 @@ para comprender cómo **proteger infraestructuras tecnológicas**.
 
 | Certificación | Horas | Nº Certificado | Verificación |
 |---------------|------|---------------|--------------|
-| Inglés Básico | 300 | 2405-01593-2023 | https://ina.ac.cr/inavirtual/SitePages/Certificados_Digitales.aspx |
-| Inglés Intermedio | 300 | 2405-00904-2024 | https://ina.ac.cr/inavirtual/SitePages/Certificados_Digitales.aspx |
-| Inglés Intermedio Alto | 600 | 2405-02532-2024 | https://ina.ac.cr/inavirtual/SitePages/Certificados_Digitales.aspx |
-| Ética y Valores Aplicados al Trabajo | 20 | 2405-00611-2024 | https://ina.ac.cr/inavirtual/SitePages/Certificados_Digitales.aspx |
+| Inglés Básico | 300 | 2405-01593-2023 | https://www.ina.ac.cr/inavirtual/SitePages/Certificados_Digitales.aspx |
+| Inglés Intermedio | 300 | 2405-00904-2024 | https://www.ina.ac.cr/inavirtual/SitePages/Certificados_Digitales.aspx |
+| Inglés Intermedio Alto | 600 | 2405-02532-2024 | https://www.ina.ac.cr/inavirtual/SitePages/Certificados_Digitales.aspx |
+| Ética y Valores Aplicados al Trabajo | 20 | 2405-00611-2024 | https://www.ina.ac.cr/inavirtual/SitePages/Certificados_Digitales.aspx|
 
 ---
 
