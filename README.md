@@ -179,4 +179,4 @@ Actualmente profundizando en **investigación forense digital y análisis de inc
 # Contacto
 
 LinkedIn: *(tu perfil)*  
-Email: *(tu correo profesional)*
+Email: *gabriel.jimenez.marchena@gmail.com*
