@@ -20,6 +20,8 @@ Estudiante de ciberseguridad enfocado en **seguridad ofensiva y defensiva**, con
 Desarrollo **laboratorios prácticos de seguridad**, análisis de ataques y técnicas de defensa  
 para comprender cómo **proteger infraestructuras tecnológicas**.
 
+</p>
+
 ---
 
 # Áreas de enfoque
@@ -130,7 +132,7 @@ para comprender cómo **proteger infraestructuras tecnológicas**.
 
 ---
 
-# Certificaciones – Instituto Nacional de Aprendizaje (INA)
+## Instituto Nacional de Aprendizaje (INA)
 
 | Certificación | Horas | Nº Certificado | Verificación |
 |---------------|------|---------------|--------------|
@@ -155,6 +157,17 @@ Laboratorios prácticos enfocados en **seguridad ofensiva, análisis de tráfico
 
 ---
 
+# Proyectos destacados
+
+| Proyecto | Descripción |
+|----------|-------------|
+| ARP Spoofing Lab | Demostración práctica de ataque MITM en una red local |
+| Network Security Labs | Colección de laboratorios sobre análisis y seguridad de redes |
+| Packet Tracer Network Designs | Diseño y simulación de topologías de red |
+| Python Security Scripts | Scripts en Python para automatización y análisis de seguridad |
+
+---
+
 # Aprendizaje actual
 
 Actualmente profundizando en **investigación forense digital y análisis de incidentes de seguridad**.
@@ -167,16 +180,3 @@ Actualmente profundizando en **investigación forense digital y análisis de inc
 
 LinkedIn: *(tu perfil)*  
 Email: *(tu correo profesional)*
-
----
-
-# Proyectos destacados
-
-| Proyecto | Descripción |
-|----------|-------------|
-| ARP Spoofing Lab | Demostración práctica de ataque MITM en una red local |
-| Network Security Labs | Colección de laboratorios sobre análisis y seguridad de redes |
-| Packet Tracer Network Designs | Diseño y simulación de topologías de red |
-| Python Security Scripts | Scripts en Python para automatización y análisis de seguridad |
-
----
